@@ -24,6 +24,7 @@ Currently learning and building with **NxtWave CCBP 4.0**, where I'm solving rea
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB, SQLite  
 **AI & Automation:** GenAI, N8N, MCP 
+
 **Other Tools:** Git, GitHub, Netlify, Vercel  
 **Concepts:** REST APIs, JWT Auth, Object-Oriented Programming (OOPs)
 
