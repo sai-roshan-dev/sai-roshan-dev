@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sai Roshan Neelam
 
-I'm a passionate **Full-Stack Developer** skilled in building responsive and dynamic web applications using the **MERN stack** and **Python**.  
+I'm a passionate **Full-Stack Developer** skilled in building responsive and dynamic web applications using the **MERN stack** , **Python** and **AI integrations.**.  
 Currently learning and building with **NxtWave CCBP 4.0**, where I'm solving real-world web development challenges and continuously leveling up.
 
 ---
@@ -9,18 +9,21 @@ Currently learning and building with **NxtWave CCBP 4.0**, where I'm solving rea
 
 - 👨‍💻 Full-Stack Developer | Python & MERN Stack
 - 🌱 Constantly learning new technologies and best practices
+- 💼 AI Engineer Intern @ Gamyam (Sep 2025 – Present)
 - 💼 MERN Stack Intern @ ZitharaAI (Jan–Apr 2025)
 - 🧠 Strong in OOPs, problem-solving, and project lifecycle management
-- ⚙️ Actively working on real-world web applications
+- ⚙️ Exploring GenAI, N8N automation, and Model Context Protocol (MCP) for intelligent AI-powered apps
+- 🚀 Actively working on real-world web applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, C  
+**Languages:** Python, JavaScript, C ,C++
 **Frontend:** HTML, CSS, Bootstrap, React.js  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB, SQLite  
+**AI & Automation:** GenAI, N8N, MCP
 **Other Tools:** Git, GitHub, Netlify, Vercel  
 **Concepts:** REST APIs, JWT Auth, Object-Oriented Programming (OOPs)
 
