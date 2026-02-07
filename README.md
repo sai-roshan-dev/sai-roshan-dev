@@ -7,13 +7,13 @@ Currently learning and building with **NxtWave CCBP 4.0**, where I'm solving rea
 
 ## 💡 About Me
 
-- 👨‍💻 Full-Stack Developer | Python & MERN Stack
-- 🌱 Constantly learning new technologies and best practices
-- 💼 AI Engineer Intern @ Gamyam (Sep 2025 – Present)
-- 💼 MERN Stack Intern @ ZitharaAI (Jan–Apr 2025)
-- 🧠 Strong in OOPs, problem-solving, and project lifecycle management
-- ⚙️ Exploring GenAI, N8N automation, and Model Context Protocol (MCP) for intelligent AI-powered apps
-- 🚀 Actively working on real-world web applications
+👨‍💻 Full-Stack Developer | Python & MERN Stack  
+🌱 Constantly learning new technologies and best practices  
+💼 Software Engineer @ Gamyam (Sep 2025 – Present)  
+💼 MERN Stack Intern @ ZitharaAI (Jan–Apr 2025)  
+🧠 Strong in OOPs, problem-solving, and project lifecycle management  
+⚙️ Exploring GenAI, n8n automation, and Model Context Protocol (MCP) for intelligent AI-powered apps  
+🚀 Actively working on real-world, production-grade web applications
 
 ---
 
